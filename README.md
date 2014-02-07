@@ -1,4 +1,6 @@
 // (C) Copyright 2013, Tianlin Shi (tianlin [at] mit [dot] edu)
+// The code implements paper : A Fully Polynomial-Time Approximation Scheme for Approximating a Sum of Random Variables
+//                                                 [J. Li, T. Shi, 2013] http://arxiv.org/abs/1303.6071.
 
 
 // SORV is free software; you can redistribute it and/or modify it under
